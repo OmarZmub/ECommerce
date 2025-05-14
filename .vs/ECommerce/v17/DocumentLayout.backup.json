@@ -50,8 +50,7 @@
               "RelativeToolTip": "ECommerce.Core\\Model\\Product.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwDYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:54:59.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T17:54:59.708Z"
             },
             {
               "$type": "Document",
@@ -59,9 +58,9 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "ECommerce.WebUI\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAlwNYAAABGAAAAAAAAAA==",
+              "ToolTip": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-14T17:54:36.65Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "ECommerce.WebUI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:46:44.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T17:46:44.869Z"
             }
           ]
         }

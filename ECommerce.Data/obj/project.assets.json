@@ -6188,11 +6188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+      "projectUniqueName": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
       "projectName": "ECommerce.Data",
-      "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+      "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
       "packagesPath": "C:\\Users\\omarz\\.nuget\\packages\\",
-      "outputPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\obj\\",
+      "outputPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6214,8 +6214,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-              "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+            "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+              "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
             }
           }
         }

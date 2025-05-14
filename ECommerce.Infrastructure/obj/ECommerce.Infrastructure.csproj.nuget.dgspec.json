@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Z_ECommerce\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {}
+    "B:\\3uToolsV3\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {}
   },
   "projects": {
-    "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+    "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectUniqueName": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "projectName": "ECommerce.Core",
-        "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "packagesPath": "C:\\Users\\omarz\\.nuget\\packages\\",
-        "outputPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\obj\\",
+        "outputPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,14 +108,14 @@
         }
       }
     },
-    "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+    "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectUniqueName": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "projectName": "ECommerce.Data",
-        "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "packagesPath": "C:\\Users\\omarz\\.nuget\\packages\\",
-        "outputPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\obj\\",
+        "outputPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -137,8 +137,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+              "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "B:\\Z_ECommerce\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+    "B:\\3uToolsV3\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectUniqueName": "B:\\3uToolsV3\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "projectName": "ECommerce.Infrastructure",
-        "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\omarz\\.nuget\\packages\\",
-        "outputPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Infrastructure\\obj\\",
+        "outputPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -245,11 +245,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+              "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
               },
-              "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
-                "projectPath": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
+              "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+                "projectPath": "B:\\3uToolsV3\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
               }
             }
           }
