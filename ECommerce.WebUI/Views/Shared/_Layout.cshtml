@@ -1,0 +1,250 @@
+﻿@using ECommerce.ViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>XPremo | Online Store</title>
+
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="~/js/swiperJs/swiper-bundle.min.css" asp-append-version="true" />
+
+    <!-- Link Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" asp-append-version="true">
+
+    <!-- Link File CSS -->
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
+
+    <style>
+        .dashboard-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: red;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+            .dashboard-button:hover {
+                background-color: slategrey;
+                transform: translateY(-2px);
+            }
+
+            .dashboard-button:active {
+                transform: scale(0.98);
+            }
+    </style>
+</head>
+<body class="menu-side-in-bag">
+
+    <header>
+
+        <div class="header-top">
+            <div class="contanier">
+                <p> مرحبا بكم في متجر اكس بريمو</p>
+                <div class="link-top-heder">
+                    @* <a href="#">My Account</a>
+                    <a href="#">My Wishlist</a>
+                    <a href="#">Sign In</a>
+                    <a href="#">Compare</a> *@
+                   @*  <partial name="_LoginPartial" /> *@
+                   
+                    @if (User.IsInRole(RoleViewModel.RoleAdmin))
+                    {
+                        <a asp-controller="MainDashBord" asp-action="Index" class="dashboard-button">لوحة التحكم</a>
+                    }
+                   
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="header-info">
+            <div class="contanier">
+                <img src="~/img/logo.png" alt="">
+
+                <div class="search-bar">
+                    
+                    @{
+                        string searth = "";
+                        <form asp-controller="Home" asp-action="index" asp-route-searth="@searth">
+                            <input asp-for="@searth" type="search" placeholder="ابحث عن طلبك...">
+                            <button class="btn-srch">بحث</button>
+                        </form>
+                    }
+                </div>
+                <div class="card">
+                    <div class="price">
+                        <p>السلة :</p>
+                        <span>255.00 جنيه</span>
+                    </div>
+                    <a href="mycart.html"><i class="fa-solid fa-bag-shopping"></i> <span class="count-in-card">2</span></a>
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="contanier">
+                <i id="open-side" class="fa-solid fa-bars"></i>
+                <ul class="nav-links">
+
+                    <li>
+                        <a href="index.html"> الرئيسة</a>
+
+                    </li>
+
+
+                    <li>
+                        <a href="contact.html">أجهزة</a>
+                    </li>
+                    <li><a href="index.html"> اكسسورات </a></li>
+
+                </ul>
+
+                <partial name="_LoginPartial"/>
+
+              @*   <div style="display: flex; gap: 10px;">
+                @if (User.Identity.IsAuthenticated != true)
+                {
+                    @* <a href="/Account/SignIn" class="sign-in-btn"><i class="fa-solid fa-user-plus"></i> انشاء حساب </a> 
+                    <a asp-area="Identity" asp-page="/Account/Register" class="sign-in-btn"><i class="fa-solid fa-user-plus"></i> انشاء حساب </a>
+                        <a asp-area="Identity" asp-page="/Account/Register" class="sign-in-btn"><i class="fa-solid fa-user-plus"></i> انشاء حساب </a>
+                }
+                @if (User.Identity.IsAuthenticated == true)
+                {
+                    <a class="sign-in-btn" asp-action="LogOut" asp-controller="Account"><i class="fa-solid fa-user-plus"></i> LogOut</a>
+                }
+                </div>
+                *@
+
+
+            </div>
+        </div>
+
+
+    </header>
+
+    <section class="slide-sec contanier">
+        <div id="side-bar" class="side-bar">
+            <h5><i class="fa-solid fa-bars"></i> SHOP BY DEPARTMENT</h5>
+            <img class="logo-slide" src="~/img/logo.png" alt="">
+            <i id="btn-close" class="fa-solid fa-bars fa-times"></i>
+            <ul class="side-links">
+                <asp-action href="#">
+                    <li>الاجهزة المنزلية</li>
+                </asp-action>
+                <a href="#">
+                <li>العاب الأطفال</li></a>
+                <a href="#">
+                <li>الشواحن</li></a>
+                <a href="#">
+                <li>المفروشات</li></a>
+                <a href="#">
+                <li>الهواتف</li></a>
+                <a href="#">
+                <li>الملابس</li></a>
+                <a href="#">
+                <li>الأحذية</li></a>
+                <a href="#">
+                <li>اكسسوارات</li></a>
+                <a href="#">
+                <li>مستحضرات التجميل</li></a>
+                <a href="#">
+                <li>التلفزيونات</li></a>
+
+            </ul>
+        </div>
+    </section>
+
+
+
+    @RenderBody()
+
+
+
+    <div class="back-top">
+        <a href="#">الرجوع للأعلي</a>
+    </div>
+
+    <footer>
+        <div class="contanier">
+            <div class="top-footer">
+                <div class="row">
+                    <img src="~/img/logo.png" alt="">
+                    <div class="hotline">
+
+                        <div class="hotline-text">
+                            <h6>خدمة عملاء 24/7</h6>
+                            <span>(+100) 123 456 7890</span>
+                        </div>
+                        <i class="fa-solid fa-headset"></i>
+                    </div>
+
+                </div>
+                <div class="small-row">
+                    <h6> اعرف المزيد عنا</h6>
+                    <div class="links-row">
+                        <a href="#"> <i class="fa-solid fa-angle-left"></i>معلومات عن اكسبريمو </a>
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>الشحن و التوصيل </a>
+
+                    </div>
+                </div>
+
+                <div class="small-row">
+                    <h6> تسوق معنا</h6>
+                    <div class="links-row">
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>حسابك</a>
+                        <a href="#"> <i class="fa-solid fa-angle-left"></i>مشترياتك</a>
+                        <a href="#"> <i class="fa-solid fa-angle-left"></i>عناوينك</a>
+                        <a href="#"> <i class="fa-solid fa-angle-left"></i>قوائمك</a>
+                    </div>
+                </div>
+
+                <div class="small-row">
+                    <h6> دعنا نساعدك</h6>
+                    <div class="links-row">
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>المساعدة و الدعم</a>
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>تتبع الطلب</a>
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>سياسة الاسترجاع</a>
+                        <a href="#"><i class="fa-solid fa-angle-left"></i>الشروط و الأحكام </a>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+        <div class="bottom-footer">
+            <div class="contanier">
+                <p>Copyright &copy; <span>Topico. </span>Powered by <span>Mahmoud Reda</span></p>
+                <div class="payment">
+                    <img src="~/img/payment-1.png" alt="">
+                    <img src="~/img/payment-2.png" alt="">
+                    <img src="~/img/payment-3.png" alt="">
+                    <img src="~/img/payment-4.png" alt="">
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Swiper JS -->
+    <script src="~/js/swiperJs/swiper-bundle.min.js" asp-append-version="true"></script>
+
+    <!-- Linke File JS -->
+    <script src="~/js/main.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

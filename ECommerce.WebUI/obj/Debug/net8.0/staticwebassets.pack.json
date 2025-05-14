@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ECommerce.WebUI.6a2khmr6ho.bundle.scp.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\css\\stylelogin.css",
+      "PackagePath": "staticwebassets\\css\\stylelogin.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\app-store.jpg",
+      "PackagePath": "staticwebassets\\img\\app-store.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-4.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-5.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-6.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-6.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-7.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-7.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-8.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-8.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-sm-1.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-sm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-sm-2.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\banner-sm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-sm-3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-6.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\features1.png",
+      "PackagePath": "staticwebassets\\img\\features1.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\features2.png",
+      "PackagePath": "staticwebassets\\img\\features2.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\features3.png",
+      "PackagePath": "staticwebassets\\img\\features3.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\features4.png",
+      "PackagePath": "staticwebassets\\img\\features4.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\features5.png",
+      "PackagePath": "staticwebassets\\img\\features5.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\google.png",
+      "PackagePath": "staticwebassets\\img\\google.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\icon_email.png",
+      "PackagePath": "staticwebassets\\img\\icon_email.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\logo-black.png",
+      "PackagePath": "staticwebassets\\img\\logo-black.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\payment-1.png",
+      "PackagePath": "staticwebassets\\img\\payment-1.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\payment-2.png",
+      "PackagePath": "staticwebassets\\img\\payment-2.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\payment-3.png",
+      "PackagePath": "staticwebassets\\img\\payment-3.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\payment-4.png",
+      "PackagePath": "staticwebassets\\img\\payment-4.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-10.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product-11.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product-13.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product-14.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-15.jpg",
+      "PackagePath": "staticwebassets\\img\\product-15.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-16.jpg",
+      "PackagePath": "staticwebassets\\img\\product-16.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\slide1.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\slide2.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\slide3.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\slide4.jpg",
+      "PackagePath": "staticwebassets\\img\\slide4.jpg"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\img\\slide5.png",
+      "PackagePath": "staticwebassets\\img\\slide5.png"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\js\\swiperJs\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\js\\swiperJs\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\js\\swiperJs\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiperJs\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerce.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerce.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerce.WebUI.props",
+      "PackagePath": "build\\ECommerce.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerce.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\ECommerce.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerce.WebUI.props",
+      "PackagePath": "buildTransitive\\ECommerce.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

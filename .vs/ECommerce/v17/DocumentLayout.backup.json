@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Z_ECommerce\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2760A1-5D93-4AA8-BD0B-C8AC69BA5582}|ECommerce.WebUI\\ECommerce.WebUI.csproj|b:\\z_ecommerce\\ecommerce\\ecommerce.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B2760A1-5D93-4AA8-BD0B-C8AC69BA5582}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8221A050-3B77-4FD6-A874-1BB74FBB3A88}|ECommerce.Core\\ECommerce.Core.csproj|b:\\z_ecommerce\\ecommerce\\ecommerce.core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8221A050-3B77-4FD6-A874-1BB74FBB3A88}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2760A1-5D93-4AA8-BD0B-C8AC69BA5582}|ECommerce.WebUI\\ECommerce.WebUI.csproj|b:\\z_ecommerce\\ecommerce\\ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B2760A1-5D93-4AA8-BD0B-C8AC69BA5582}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\Model\\Product.cs",
+              "ToolTip": "B:\\Z_ECommerce\\ECommerce\\ECommerce.Core\\Model\\Product.cs",
+              "RelativeToolTip": "ECommerce.Core\\Model\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:54:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAlwNYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T17:54:36.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\Z_ECommerce\\ECommerce\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:46:44.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
