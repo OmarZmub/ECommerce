@@ -9,7 +9,7 @@ namespace ECommerce.Data.Models;
 public partial class Product
 {
     [Key]
-    public long Id { get; set; }
+    public long Id { get;   set; }
 
     [Column("category_Id")]
     public long CategoryId { get; set; }
